@@ -11,10 +11,6 @@ The dashboard enables users to:
 - Filter and compare **risk levels across demographics**
 - Identify both **risk and protective factors** through dynamic visuals
 
-Here’s a preview of the dashboard:
-
-![Dashboard Overview](cancer risk visualization.png)
-
 ## 🛠️ Tools & Technologies
 - Power BI (Desktop)
 - DAX (Data Analysis Expressions)
