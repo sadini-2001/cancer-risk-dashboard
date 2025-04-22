@@ -1,7 +1,7 @@
 # 🎯 Cancer Risk Factor Analysis Dashboard in Power BI
 
 This project presents an **interactive Power BI dashboard** developed to explore and visualize **cancer risk factors** using personal health and lifestyle data. The goal is to help identify potential early warning signs, support public health decisions, and promote data-driven research.
-The analysis uses the **ndian Liver Patient Dataset (ILPD)** from **UCI Machine Learning Repository** .
+The analysis uses the **Indian Liver Patient Dataset (ILPD)** from **UCI Machine Learning Repository** .
 [Download the dataset here](https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset)
 
 ## 📊 Dashboard Overview
