@@ -26,7 +26,7 @@ Here’s a preview of the dashboard:
 ## ⚙️ Key Features
 ✅ Interactive slicers to filter by **Cancer Status** (Yes / No / All)  
 ✅ Custom **DAX measures** for average BMI, age, gender-wise percentages  
-✅ **Dynamic visuals** including Donut Charts, Bar Graphs
+✅ **Dynamic visuals** including Donut Charts, Bar Graphs, Box Plots
 ✅ **Bookmarks & buttons** to to seamlessly switch views (e.g., BMI vs Cancer, Genetic Risk insights)  
  
 ## 🔍 Insights Uncovered
